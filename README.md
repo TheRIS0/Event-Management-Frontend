@@ -17,3 +17,11 @@ This is the frontend part of the Event Management application. It is a Single Pa
 
 ## Installation
 ***Prerequisites:***  Node.js and npm installed on your machine.
+
+## Steps
+1. Clone the repository:
+
+```bash
+git clone https://github.com/TheRIS0/Event-Management-Frontend.git
+cd Event-Management-Frontend
+```
