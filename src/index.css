@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); /* Modrý gradient */
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top: 50px;
+  max-width: 800px;
+  width: 100%;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+
+.emoji-mart {
+  position: absolute;
+  z-index: 10;
+}
