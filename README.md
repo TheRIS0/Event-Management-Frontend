@@ -25,3 +25,16 @@ This is the frontend part of the Event Management application. It is a Single Pa
 git clone https://github.com/TheRIS0/Event-Management-Frontend.git
 cd Event-Management-Frontend
 ```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm start
+```
+The application will be available at `http://localhost:3000`.
