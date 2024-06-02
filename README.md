@@ -51,19 +51,19 @@ The application will be available at `http://localhost:3000`.
 ## API Endpoints
 
 The frontend communicates with the backend through the following API endpoints:
-*GET /api/events: Fetch all events.
-*POST /api/events: Create a new event.
-*GET /api/events/
+- GET /api/events: Fetch all events.
+- POST /api/events: Create a new event.
+- GET /api/events/
 : Fetch details of a single event.
-*PUT /api/events/
+- PUT /api/events/
 : Update an event.
-*DELETE /api/events/
+- DELETE /api/events/
 : Delete an event.
-*POST /api/events/
+- POST /api/events/
 /comments: Post a comment to an event.
-*GET /api/events/
+- GET /api/events/
 /comments: Fetch all comments for an event.
-*DELETE /api/events/
+- DELETE /api/events/
 /comments/
 : Delete a comment.
 
