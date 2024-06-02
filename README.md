@@ -72,4 +72,4 @@ The frontend communicates with the backend through the following API endpoints:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
