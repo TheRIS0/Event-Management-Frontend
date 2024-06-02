@@ -1,1 +1,1 @@
-# Event Management App (Frontend)
+# Event Management App (Part: Frontend)
