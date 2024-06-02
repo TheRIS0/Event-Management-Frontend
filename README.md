@@ -1,12 +1,10 @@
 # Event Management App (Part: Frontend)
-![Webpage Screenshot](webpage.png)
 
 This is the frontend part of the Event Management application. It is a Single Page Application (SPA) built with React and Bootstrap. This application allows users to create, view, manage events, and engage in discussions related to the events.
-
-![Discussion Screenshot](discussion.png)
-
-
 ***For the backend part of this project, visit the [Event Management Backend Repository](https://github.com/TheRIS0/Event-Management-Backend).***
+
+![Webpage Screenshot](webpage.png)
+![Discussion Screenshot](discussion.png)
 
 ## Features
 * ***Event Creation and Management:*** Users can create new events with details such as name, description, start and end time, and location.
