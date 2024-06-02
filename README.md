@@ -16,4 +16,4 @@ This is the frontend part of the Event Management application. It is a Single Pa
 * emoji-mart: A React component library for adding emoji pickers.
 
 ## Installation
-***Prerequisites:***  * Node.js and npm installed on your machine.
+***Prerequisites:***  Node.js and npm installed on your machine.
